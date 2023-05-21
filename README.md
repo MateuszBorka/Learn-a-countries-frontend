@@ -2,6 +2,8 @@
 
 This is a frontend part of my learn-a-countries application. To create a docker container follow this steps:
 
+Make sure you follow the process and clone app exactly the same way as asked in instruction!
+
 1) Clone app from GitHub using "git clone https://github.com/MateuszBorka/learn-a-countries-frontend/" command (you should be in a folder, where you won't app to be installed) or simply downloading ZIP of repository from web page using "Clone" button.
 2) Make sure that Docker engine is running on your PC.
 3) Go to the main folder of repository(Learn-a-countries-frontend).
